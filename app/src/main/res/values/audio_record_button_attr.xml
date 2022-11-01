@@ -1,0 +1,5 @@
+<resources>
+    <declare-styleable name="AudioRecordButton">
+        <attr name="mic_icon" format="reference" />
+    </declare-styleable>
+</resources>
